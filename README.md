@@ -1,7 +1,7 @@
 # PROJECT NAME
 Quora question pairs from Kaggle
 # TASK
-Build neural network, identifying question duplicates from Quora questions
+Build neural network, which identifies question duplicates from Quora questions
 # DATASET
 Training set has 6 columns: pair id, id of the first question, id of the second question, first question, second question, boolean variable "isDuplicate". Testing set has only pair id, first question and second question. Column "isDuplicate" needs to be predicted in the test set.
 https://yadi.sk/d/v8ras2A93GcJzV link to the train set
